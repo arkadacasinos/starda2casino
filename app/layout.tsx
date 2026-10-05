@@ -83,6 +83,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className={`${playfair.variable} ${inter.variable}`}>
       <head>
+        <meta name="yandex-verification" content="61dea2e57579ab0c" />
         {/* Дополнительные пользовательские теги */}
         <meta name="author" content="Starda Casino" />
         <meta name="rating" content="general" />
