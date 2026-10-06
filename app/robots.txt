@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
+Disallow: / 
 
 Sitemap: https://starda2casino.vercel.app/sitemap.xml
